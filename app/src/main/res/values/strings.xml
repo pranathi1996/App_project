@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyProject</string>
+    <string name="already_registered_login_here">Already registered? Login here</string>
+    <string name="create_new_account">Create new Account</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="register">Register</string>
 </resources>
