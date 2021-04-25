@@ -69,6 +69,7 @@ public class Register extends AppCompatActivity implements View.OnClickListener 
         if(fullName.isEmpty()){
             Name.setError("Full Name is required");
             Name.requestFocus();
+            Toast.makeText(this, "Name is missing", Toast.LENGTH_SHORT).show();
             return;
         }
 
